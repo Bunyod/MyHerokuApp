@@ -1,5 +1,5 @@
 # MyHerokuApp
-===  
+===
 
 ##This application is for reviewing restaurants
 ---
@@ -43,7 +43,6 @@
 [AngularJS]: https://angularjs.org/
 
 ###Developer PlatformFull Code Control 
-  Git Built-in – All templates are exposed via Git, so you can work with a team and roll back changes easily.
+    Git Built-in – All templates are exposed via Git, so you can work with a team and roll back changes easily.
   JSON Access – Query any page as JSON to access any of your content in a structured way. Your entire website becomes an API.
   Post by Email – This feature is available for any blog page
-  
